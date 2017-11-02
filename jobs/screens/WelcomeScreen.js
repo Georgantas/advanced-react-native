@@ -11,7 +11,6 @@ const SLIDE_DATA = [
     { text: 'Set your location, then swipe away.', color: '#03A9F4' }
 ];
 
-
 class WelcomeScreen extends Component {
     state = { token: null }
 
